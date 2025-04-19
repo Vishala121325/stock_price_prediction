@@ -7,36 +7,36 @@ Stock price prediction is a challenging task due to the dynamic nature of the ma
 ---
 Through this project, you will:
 --
--Understand how to handle time-series data
--Visualize trends and stock behavior over time
--Implement and evaluate forecasting models
--Compare predictions with actual prices
+- Understand how to handle time-series data
+- Visualize trends and stock behavior over time
+- Implement and evaluate forecasting models
+- Compare predictions with actual prices
 ----
 ## 🔍 Objective
--To analyze and visualize historical stock data
--To understand the trend and movement of stock prices
--To implement machine learning and statistical models to forecast future stock prices
--To evaluate the model performance and refine predictions
+- To analyze and visualize historical stock data
+- To understand the trend and movement of stock prices
+- To implement machine learning and statistical models to forecast future stock prices
+- To evaluate the model performance and refine predictions
 ## 📊 Models Used
--1. Linear Regression
+- 1. Linear Regression
 Predicts stock prices based on linear patterns from historical data.
 Useful for trend-following datasets.
--2. Moving Average
+- 2. Moving Average
 Calculates the average of stock prices over a specific period.
 Helps to smooth out short-term fluctuations and show long-term trends.
--3. ARIMA (AutoRegressive Integrated Moving Average)
+- 3. ARIMA (AutoRegressive Integrated Moving Average)
 Time-series forecasting model that considers previous values and error terms.
 Suitable for datasets with trends and seasonality.
 ----
 ## 📁 Datasets
 The following CSV files are used for training and testing:
 --
--Google_Stock_Price_Test.csv
--Microsoft_Stock.csv
--zomato.csv
---Each dataset contains:
--Date
--Open
+- Google_Stock_Price_Test.csv
+- Microsoft_Stock.csv
+- zomato.csv
+-- Each dataset contains:
+- Date
+- Open
 -High
 -Low
 -Close
