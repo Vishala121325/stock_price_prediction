@@ -37,26 +37,26 @@ The following CSV files are used for training and testing:
 -- Each dataset contains:
 - Date
 - Open
--High
--Low
--Close
--Volume
+- High
+- Low
+- Close
+- Volume
 ----
 ## 📈 Data Visualization
 Visualization is a key part of this project:
 --
--Stock price line plots over time
--Actual vs predicted price comparison
--Rolling averages (e.g., 30-day moving average)
--Visualization helps to understand the data trends before applying models.
+- Stock price line plots over time
+- Actual vs predicted price comparison
+- Rolling averages (e.g., 30-day moving average)
+- Visualization helps to understand the data trends before applying models.
 ----
 ## 🧰 Technologies Used
--Python 3
--Jupyter Notebook
--NumPy
--Pandas
--Matplotlib
--Seaborn
--scikit-learn
--statsmodels
+- Python 3
+- Jupyter Notebook
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- scikit-learn
+- statsmodels
 ---
