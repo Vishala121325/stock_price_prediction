@@ -1,7 +1,7 @@
-##📈 Stock Price Prediction using Machine Learning
+## 📈 Stock Price Prediction using Machine Learning
 This project is focused on predicting the future prices of stocks using historical stock data. By using machine learning and statistical models, we aim to forecast stock prices with better accuracy. The project uses datasets from real companies like Google, Microsoft, and Zomato, and implements models like Linear Regression, Moving Average, and ARIMA.
 ---
-##🧠 Project Overview
+## 🧠 Project Overview
 Stock price prediction is a challenging task due to the dynamic nature of the market. This project demonstrates a practical approach using Python to explore and analyze stock data and apply models for forecasting.
 ---
 Through this project, you will:
